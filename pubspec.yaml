@@ -9,6 +9,11 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  flutter_secure_storage: ^9.2.4
+  flutter_svg: ^2.1.0
+  http: ^1.6.0
+  image_picker: ^1.1.2
+  jwt_decoder: ^2.0.1
 
 dev_dependencies:
   flutter_test:
