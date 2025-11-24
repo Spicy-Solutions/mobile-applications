@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:sweet_manager/monitoring/models/room_type.dart';
 import 'package:sweet_manager/monitoring/views/booking_payment.dart';
-
+import 'package:sweet_manager/OrganizationalManagement/models/hotel.dart';
 import 'package:sweet_manager/shared/widgets/base_layout.dart';
 
 

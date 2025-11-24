@@ -3,6 +3,7 @@ import 'package:flutter/services.dart';
 import 'package:sweet_manager/Commerce/services/payment_service.dart';
 import 'package:sweet_manager/shared/widgets/base_layout.dart';
 import '../../iam/infrastructure/preferences_service.dart';
+import 'package:sweet_manager/OrganizationalManagement/models/hotel.dart';
 import '../models/booking.dart';
 import '../models/room_type.dart';
 import '../services/booking_service.dart';
